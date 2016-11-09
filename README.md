@@ -13,7 +13,7 @@ A Sinatra (Ruby) app showing how to implement two-way customer engagement over S
 # clone this repository
 git clone git@github.com:Nexmo/ruby-customer-engagement.git
 # change to folder
-cd ruby-customer-engagement
+cd ruby-sms-customer-engagement
 # install dependencies
 bundle install
 # create a .env
