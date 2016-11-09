@@ -1,4 +1,4 @@
-# Customer Engagement with Nexmo SMS
+# Two-way SMS for customer engagement
 
 A Sinatra (Ruby) app showing how to implement two-way customer engagement over SMS using the Nexmo SMS API.
 
