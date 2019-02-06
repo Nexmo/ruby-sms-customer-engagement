@@ -1,20 +1,20 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dotenv (2.4.0)
+    dotenv (2.6.0)
     jwt (2.1.0)
-    mustermann (1.0.2)
-    nexmo (5.0.2)
-      jwt
-    rack (2.0.5)
-    rack-protection (2.0.1)
+    mustermann (1.0.3)
+    nexmo (5.5.0)
+      jwt (~> 2)
+    rack (2.0.6)
+    rack-protection (2.0.5)
       rack
-    sinatra (2.0.1)
+    sinatra (2.0.5)
       mustermann (~> 1.0)
       rack (~> 2.0)
-      rack-protection (= 2.0.1)
+      rack-protection (= 2.0.5)
       tilt (~> 2.0)
-    tilt (2.0.8)
+    tilt (2.0.9)
 
 PLATFORMS
   ruby
@@ -25,4 +25,4 @@ DEPENDENCIES
   sinatra
 
 BUNDLED WITH
-   1.16.1
+   1.17.2
